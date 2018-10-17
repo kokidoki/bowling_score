@@ -4,6 +4,7 @@
 # check for spare or strike 
 # if spare or strike do math for it taking new input and skipping the rest of the other steps
 # keep adding input to total
+# print score
 player_input = input("Enter your bowling scores here: ")
 total_score = 0
 strike_counter = 1
